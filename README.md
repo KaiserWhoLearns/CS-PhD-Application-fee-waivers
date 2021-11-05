@@ -1,11 +1,11 @@
 # CS-PhD-Application-fee-waivers
 
 ## Introduction and Background
-During the long and stressful process of PhD applications, expensive application fee turns out to be an important factor that impeded me from applying for more programs. Some schools offers application fee waiver, but the information can be hard to find due to many reasons, and the fee waiver usually is only availble for people with specific citizenship or permanent residentship. Therefore, I created this list of application fee waivers for a collection of schools (mostly in North America, in which PhD programs typically requires application fee), hoping that other studnets can save some time from finding these information.
+During the long and stressful process of PhD applications, expensive application fee turns out to be an important factor that impede me from applying for more programs. Some schools offers application fee waiver, but the information can be hard to find due to many reasons, and sometimes the fee waiver is only availble for people with specific citizenship or permanent residentship. Therefore, I created this list of application fee waivers for a collection of schools (mostly in North America, in which PhD programs typically requires an application fee), hoping that other students can save some time from finding these information.
 
-Although this list notes for CS PhD application fee waivers, **most fee waivers should be generalizable to graduate program or at least graduate program in School of Engineering or School of Art and Science.** People applying for other programs can also look for departmental fee waiver by either searching through the departmental website or messaging admission office.
+Although this list notes for CS PhD application fee waivers, **most link should be generalizable to graduate program or at least graduate program in School of Engineering or School of Art and Science.** People applying for other programs can also look for departmental fee waiver by either searching through the departmental website or messaging the admission office.
 
-The program will be followed by a link to the fee waiver information page and/or a short message indicating the limitation for application. For some US schools, application fee waiver will only be offered to US Citizens or permanent residents -- this will also be annotated.
+Each program will be followed by a link to the fee waiver information page and/or a short message indicating the limitation for application. For some US schools, application fee waiver will only be offered to US Citizens or permanent residents -- this will also be annotated.
 
 If a school is not on the list, it **does not necessarily mean that they do not offer application fee waiver**. You can find information through search engine, probing into their application pages, or message admission offices.
 
@@ -18,6 +18,8 @@ Some schools offer fee waivers to participant/members of specific programs/organ
 - Black in AI [[Link]](https://blackinai.github.io/)
 - LatinX in AI [[Link]](https://www.latinxinai.org/)
 - Queer in AI [[Link]](https://sites.google.com/view/queer-in-ai/home)
+- Queer in AI Fiancial Aid/Appliication Review Program [[Link]](https://sites.google.com/view/queer-in-ai/graduate-school-application-programs)
+- oSTEM Grad School Application Funding [[Link]](https://www.ostem.org/page/grad-app-funding)
 
 ## 2022 Application Fee Waivers
 ### United States
