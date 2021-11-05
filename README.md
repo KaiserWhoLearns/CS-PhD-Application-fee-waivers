@@ -18,6 +18,7 @@ Some schools offer fee waivers to participant/members of specific programs/organ
 - Queer in AI [[Link]](https://sites.google.com/view/queer-in-ai/home)
 
 ## 2022 Application Fee Waivers
+### United States
 - Stanford Graduate Fee Waivers [[Link]](https://graddiversity.stanford.edu/graduate-fee-waivers)
 - Carnegie Mellon SCS Graduate Application Fee Waiver [[Link]](https://www.cs.cmu.edu/academics/fee-waiver)
 - UC Berkeley Application Fee Waiver [[Link]](https://grad.berkeley.edu/admissions/steps-to-apply/apply/fee-waiver/) Note: Must be a U.S. citizen or permanent resident
@@ -29,3 +30,21 @@ Some schools offer fee waivers to participant/members of specific programs/organ
 - John Hopkins Whiting School of Engineering [[Link]](https://www.cs.jhu.edu/graduate-studies/graduate-admissions-faq/) Note: Under `APPLICATION MATERIALS`, tab `What is the application fee?`
 - Cornell Graduate Fee Waivers [[Link]](https://gradschool.cornell.edu/admissions/apply/application-fees-2/)
 - UCLA Graduate Education [[Link]](https://grad.ucla.edu/admissions/research-requirements/) Note: Non-U.S. Citizens are eligible to apply for a fee waiver based on participation in a program, but no financial hardship.
+- UCSD Graduate Division [[Link]](https://grad.ucsd.edu/admissions/requirements/application-fee-and-fee-waiver/index.html) Note: International applicants are not eligible.
+- UCSD CSE department [[Link]](https://docs.google.com/forms/d/e/1FAIpQLSekFbkST-lIVOMQm_hKHotCgOZXaaCYx3Tg4ePXPjX5p_9xag/viewform) Note: *DDL Nov 15 2021* This is for those who are not elligible for general fee waiver
+- UCSC Graduate Application Fee Waiver [[Link]](https://www.gradadmissions.ucsc.edu/instructions) Note: Search for `Fee Waiver` in this page. Must be US Citizen, AB 540, or a Permanent Resident of the United States.
+- UCI Graduate Admission Fee Waiver [[Link]](https://grad.uci.edu/admissions/applying-to-uci/fee-waivers.php) Note: U.S. citizens, permanent residents, and DACA/AB540 eligible only
+- University of Southern California Viterbi School of Engineering [[Link]](https://jessethomason.com/faq) Note: Request a fee waiver by sending an email with the CV and transcripts to: viterbi.gradprograms@usc.edu.
+- University of Maryland Graduate School [[Link]](https://gradschool.umd.edu/feewaiverinformation)
+- Harvard University, the Graduate School of Arts and Science [[Link]](https://gsas.harvard.edu/admissions/frequently-asked-questions-master%E2%80%99s-and-phd-applicants) Note: Under tab `How much is the application fee` and `How can I apply for an application fee waiver`
+- Caltech Graduate Application Fee Waiver [[Link]](https://www.gradoffice.caltech.edu/admissions/FAQ) Note: Search for `How do I apply for a fee waiver?` in this page
+- Columbia Graduate School of Art and Science [[Link]](https://gsas.columbia.edu/degree-programs/admissions/application-fee-waivers)
+- University of Illinois Chicago [[Link]](https://admissions.uic.edu/graduate-professional/application-process/application-fee-waivers) Note: No financial hardship fee waiver.
+- Universityo of Michigan Rackham Graduate School [[Link]](https://rackham.umich.edu/admissions/applying/application-fee-and-waivers/)
+- Georgia Institute of Technology [[Link]](https://grad.gatech.edu/preparing-your-application) Note: Under `Fee Waivers`
+- Purdue University Graduate School Application Fee [[Link]](https://www.purdue.edu/gradschool/admissions/how-to-apply/apply-fee.html)
+- University of Massachusetts Amherst Robert and Donna Manning College of Information & Computer Sciences [[Link]](https://www.cics.umass.edu/admissions/application-instructions) Note: Under `Application Fee`
+
+### Canada
+- University of British Columbia [[Link]](https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee)
+- Simon Fraser University [[Link]]()
