@@ -1,11 +1,13 @@
 # CS-PhD-Application-fee-waivers
 
 ## Introduction and Background
-During the long and stressful process of PhD applications, expensive application fee turns out to be an important factor that impede some me from applying for more programs. Some schools offers application fee waiver, but the information can be hard to find due to many reasons, and the fee waiver usually is only availble for people with specific citizenship or permanent residentship. Therefore, I created this list of application fee waivers for a collection of schools (mostly in North America, in which PhD programs typically requires application fee), hoping that other studnets can save some time from finding these information.
+During the long and stressful process of PhD applications, expensive application fee turns out to be an important factor that impeded me from applying for more programs. Some schools offers application fee waiver, but the information can be hard to find due to many reasons, and the fee waiver usually is only availble for people with specific citizenship or permanent residentship. Therefore, I created this list of application fee waivers for a collection of schools (mostly in North America, in which PhD programs typically requires application fee), hoping that other studnets can save some time from finding these information.
 
-Although this list notes for CS PhD application fee waivers, most fee waivers should be at least generalizable to graduate program in School of Engineering or School of Art and Science. People applying for other programs can also look for departmental fee waiver by either searching through the departmental website or messaging admission office.
+Although this list notes for CS PhD application fee waivers, **most fee waivers should be generalizable to graduate program or at least graduate program in School of Engineering or School of Art and Science.** People applying for other programs can also look for departmental fee waiver by either searching through the departmental website or messaging admission office.
 
 The program will be followed by a link to the fee waiver information page and/or a short message indicating the limitation for application. For some US schools, application fee waiver will only be offered to US Citizens or permanent residents -- this will also be annotated.
+
+If a school is not on the list, it **does not necessarily mean that they do not offer application fee waiver**. You can find information through search engine, probing into their application pages, or message admission offices.
 
 To add more entries or correct some entries, please submit a PR or open an issue.
 
@@ -47,4 +49,4 @@ Some schools offer fee waivers to participant/members of specific programs/organ
 
 ### Canada
 - University of British Columbia [[Link]](https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee)
-- Simon Fraser University [[Link]]()
+- Simon Fraser University [[Link]](http://www.sfu.ca/computing/prospective-students/graduate-students/admissions.html) Note: Under `PhD`, in `Application Fee Waiver`.
