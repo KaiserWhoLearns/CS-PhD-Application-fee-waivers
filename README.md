@@ -1,7 +1,7 @@
 # CS-PhD-Application-fee-waivers
 
 ## Introduction and Background
-During the long and stressful process of PhD applications, expensive application fee turns out to be an important factor that impede me from applying for more programs. Some schools offers application fee waiver. However, as suggested by Prof. [Jesse Thomason](https://jessethomason.com/faq)
+During the long and stressful process of PhD applications, expensive application fee turns out to be an important factor that impede me from applying for more programs. Some schools offers application fee waiver. However, as suggested by Prof. [Jesse Thomason](https://jessethomason.com/faq),
 > You often can get application fees waived, and requesting waivers should not affect your application. Unfortunately, many schools and departments either intentionally or unwittingly make the procedure for applying for a waiver difficult to untangle.
 
 In addition, sometimes the fee waiver is only availble for people with specific citizenship or permanent residentship. Therefore, I created this list of application fee waivers for a collection of schools (mostly in North America, in which PhD programs typically requires an application fee), hoping that other students can save some time from finding these information.
@@ -10,7 +10,7 @@ Although this list notes for CS PhD application fee waivers, **most link should 
 
 Each program will be followed by a link to the fee waiver information page and/or a short message indicating the limitation for application. For some US schools, application fee waiver will only be offered to US Citizens or permanent residents -- this will also be annotated.
 
-If a school is not on the list, it **does not necessarily mean that they do not offer application fee waiver**. You can find information through search engine, probing into their application pages, or messaging admission offices.
+If a school is not on the list, it **does not necessarily mean that they do not offer application fee waiver**. You can find information through search engine, probing into their application pages, or messaging the admission offices.
 
 To add more entries or correct some entries, please submit a PR or open an issue.
 
