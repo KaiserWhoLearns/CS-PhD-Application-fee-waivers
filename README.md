@@ -52,6 +52,8 @@ Some schools offer fee waivers to participant/members of specific programs/organ
 - Georgia Institute of Technology [[Link]](https://grad.gatech.edu/preparing-your-application) Note: Under `Fee Waivers`
 - Purdue University Graduate School Application Fee [[Link]](https://www.purdue.edu/gradschool/admissions/how-to-apply/apply-fee.html)
 - University of Massachusetts Amherst Robert and Donna Manning College of Information & Computer Sciences [[Link]](https://www.cics.umass.edu/admissions/application-instructions) Note: Under `Application Fee`
+- The Graduate School at UNC-Chapel Hill [[Link]](https://gradschool.unc.edu/admissions/feewaiver.html) Note: Available for ten groups of domestic applicants
+- UNC-Chapel Hill Computer Science [[Link]](https://cs.unc.edu/graduate/graduate-admissions/admissions-faq/#appWaiver) Note: Available for applicants not elligible for the general fee waiver.
 
 ### Canada
 - University of British Columbia [[Link]](https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee)
