@@ -48,12 +48,13 @@ Some schools offer fee waivers to participant/members of specific programs/organ
 - Caltech Graduate Application Fee Waiver [[Link]](https://www.gradoffice.caltech.edu/admissions/FAQ) Note: Search for `How do I apply for a fee waiver?` in this page
 - Columbia Graduate School of Art and Science [[Link]](https://gsas.columbia.edu/degree-programs/admissions/application-fee-waivers)
 - University of Illinois Chicago [[Link]](https://admissions.uic.edu/graduate-professional/application-process/application-fee-waivers) Note: No financial hardship fee waiver.
-- Universityo of Michigan Rackham Graduate School [[Link]](https://rackham.umich.edu/admissions/applying/application-fee-and-waivers/)
+- University of Michigan Rackham Graduate School [[Link]](https://rackham.umich.edu/admissions/applying/application-fee-and-waivers/)
 - Georgia Institute of Technology [[Link]](https://grad.gatech.edu/preparing-your-application) Note: Under `Fee Waivers`
 - Purdue University Graduate School Application Fee [[Link]](https://www.purdue.edu/gradschool/admissions/how-to-apply/apply-fee.html)
 - University of Massachusetts Amherst Robert and Donna Manning College of Information & Computer Sciences [[Link]](https://www.cics.umass.edu/admissions/application-instructions) Note: Under `Application Fee`
 - The Graduate School at UNC-Chapel Hill [[Link]](https://gradschool.unc.edu/admissions/feewaiver.html) Note: Available for ten groups of domestic applicants
 - UNC-Chapel Hill Computer Science [[Link]](https://cs.unc.edu/graduate/graduate-admissions/admissions-faq/#appWaiver) Note: Available for applicants not elligible for the general fee waiver.
+- Georgetown University Computer Science [[Link]](https://cs.georgetown.edu/apply-for-fully-funded-phd-positions-in-computer-science-starting-in-fall-2022/) Note: Search for `fee waiver`
 
 ### Canada
 - University of British Columbia [[Link]](https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee)
