@@ -55,6 +55,7 @@ Some schools offer fee waivers to participant/members of specific programs/organ
 - The Graduate School at UNC-Chapel Hill [[Link]](https://gradschool.unc.edu/admissions/feewaiver.html) Note: Available for ten groups of domestic applicants
 - UNC-Chapel Hill Computer Science [[Link]](https://cs.unc.edu/graduate/graduate-admissions/admissions-faq/#appWaiver) Note: Available for applicants not elligible for the general fee waiver.
 - Georgetown University Computer Science [[Link]](https://cs.georgetown.edu/apply-for-fully-funded-phd-positions-in-computer-science-starting-in-fall-2022/) Note: Search for `fee waiver`
+- Northeastern University College of Engineering [[Link]](https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/) Note: See the right hand side: "... graduate student applicants can use fee waiver code NUExperience21. To use the fee waiver..."
 
 ### Canada
 - University of British Columbia [[Link]](https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee)
