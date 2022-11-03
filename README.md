@@ -35,7 +35,7 @@ Some schools offer fee waivers to participant/members of specific programs/organ
 - Princeton Application Fee Waivers [[Link]](https://gradschool.princeton.edu/admission/applying-princeton/deadlines-and-fees/application-fee-waivers) Note: Non-U.S. Citizens are eligible to apply for a fee waiver based on participation in a program, but no financial hardship.
 - UPenn Engineering Application Fee Waivers [[Link]](https://gradadm.seas.upenn.edu/how-to-apply/#requirements) Note: Search for `fee waiver` on this page.
 - UIUC Graduate Application Fee Waivers [[Link]](https://cs.illinois.edu/admissions/graduate/applications-process-requirements/application-fee-waivers) Note: must be U.S. citizens or permanent residents.
-- John Hopkins Whiting School of Engineering [[Link]](https://www.cs.jhu.edu/graduate-studies/graduate-admissions-faq/) Note: Under `APPLICATION MATERIALS`, tab `What is the application fee?`
+- John Hopkins Whiting School of Engineering [[Link]](https://engineering.jhu.edu/admissions/graduate-admissions/full-time-programs/how-to-apply/general-application-requirements/) Note: Under `Application Fee and Waiver Request`
 - Cornell Graduate Fee Waivers [[Link]](https://gradschool.cornell.edu/admissions/apply/application-fees-2/)
 - UCLA Graduate Education [[Link]](https://grad.ucla.edu/admissions/research-requirements/) Note: Non-U.S. Citizens are eligible to apply for a fee waiver based on participation in a program, but no financial hardship.
 - UCSD Graduate Division [[Link]](https://grad.ucsd.edu/admissions/requirements/application-fee-and-fee-waiver/index.html) Note: International applicants are not eligible.
