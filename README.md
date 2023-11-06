@@ -64,6 +64,7 @@ Some schools offer fee waivers to participants/members of specific programs/orga
 - University of Utah Graduate Programs [[Link]](https://www.cs.utah.edu/graduate/admissions/) 0 application fee for domestic applicants, need to email to grad office.
 - Brown University Computer Science [[Link]](https://cs.brown.edu/degrees/doctoral/applications/) Search for `fee waiver`
 - Cornell University [[Link]](https://gradschool.cornell.edu/admissions/apply/application-fees/) Note: You can request a fee waiver through the payment page of the online application form.
+- Columbia University Graduate Engineering [[Link]](https://apply.engineering.columbia.edu/register/feewaiverform/)
 
 ### Canada
 - University of British Columbia [[Link]](https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee)
