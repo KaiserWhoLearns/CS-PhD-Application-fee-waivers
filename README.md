@@ -26,7 +26,7 @@ Some schools offer fee waivers to participants/members of specific programs/orga
 - Queer in AI Financial Aid/Application Review Program [[Link]](https://sites.google.com/view/queer-in-ai/graduate-school-application-programs)
 - oSTEM Grad School Application Funding [[Link]](https://www.ostem.org/page/grad-app-funding)
 
-## 2022 Application Fee Waivers
+## 2023 Application Fee Waivers
 ### United States
 - Stanford Graduate Fee Waivers [[Link]](https://graddiversity.stanford.edu/graduate-fee-waivers)
 - Carnegie Mellon SCS Graduate Application Fee Waiver [[Link]](https://www.cs.cmu.edu/academics/fee-waiver)
