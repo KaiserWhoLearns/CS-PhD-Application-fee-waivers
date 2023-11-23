@@ -65,7 +65,7 @@ Some schools offer fee waivers to participants/members of specific programs/orga
 - Brown University Computer Science [[Link]](https://cs.brown.edu/degrees/doctoral/applications/) Search for `fee waiver`
 - Cornell University [[Link]](https://gradschool.cornell.edu/admissions/apply/application-fees/) Note: You can request a fee waiver through the payment page of the online application form.
 - Columbia University Graduate Engineering [[Link]](https://apply.engineering.columbia.edu/register/feewaiverform/)
-- University of Virginia (School of Engineering and Applied Science) [[Link]](https://engineering.virginia.edu/departments/biomedical-engineering/apply/application-fee-waivers#:~:text=The%20School%20of%20Engineering%20and,to%20all%20our%20graduate%20programs) Note: GRE and standard application fee of $85 will be waived for 2024 admission to all GRADUATE PROGRAMS
+- University of Virginia (School of Engineering and Applied Science) [[Link]](https://engineering.virginia.edu/departments/biomedical-engineering/apply/application-fee-waivers) Note: GRE and standard application fee of $85 will be waived for 2024 admission to all GRADUATE PROGRAMS
 
 ### Canada
 - University of British Columbia [[Link]](https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee)
