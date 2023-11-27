@@ -22,8 +22,8 @@ Some schools offer fee waivers to participants/members of specific programs/orga
 - GEM Fellowship Program [[Link]](https://gemfellowship.org/gem-fellowship-program/)
 - Black in AI [[Link]](https://blackinai.github.io/)
 - LatinX in AI [[Link]](https://www.latinxinai.org/)
-- Queer in AI [[Link]](https://sites.google.com/view/queer-in-ai/home)
-- Queer in AI Financial Aid/Application Review Program [[Link]](https://sites.google.com/view/queer-in-ai/graduate-school-application-programs)
+- Queer in AI [[Link]](https://www.queerinai.com/)
+- Queer in AI Financial Aid/Application Review Program [[Link]](https://www.queerinai.com/grad-app-aid)
 - oSTEM Grad School Application Funding [[Link]](https://www.ostem.org/page/grad-app-funding)
 
 ## 2023 Application Fee Waivers
