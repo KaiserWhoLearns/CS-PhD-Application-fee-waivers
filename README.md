@@ -26,7 +26,7 @@ Some schools offer fee waivers to participants/members of specific programs/orga
 - Queer in AI Financial Aid/Application Review Program [[Link]](https://www.queerinai.com/grad-app-aid)
 - oSTEM Grad School Application Funding [[Link]](https://www.ostem.org/page/grad-app-funding)
 
-## 2023 Application Fee Waivers
+## Application Fee Waivers
 ### United States
 - Stanford Graduate Fee Waivers [[Link]](https://graddiversity.stanford.edu/graduate-fee-waivers)
 - Carnegie Mellon SCS Graduate Application Fee Waiver [[Link]](https://www.cs.cmu.edu/academics/fee-waiver)
@@ -66,6 +66,7 @@ Some schools offer fee waivers to participants/members of specific programs/orga
 - Cornell University [[Link]](https://gradschool.cornell.edu/admissions/apply/application-fees/) Note: You can request a fee waiver through the payment page of the online application form.
 - Columbia University Graduate Engineering [[Link]](https://apply.engineering.columbia.edu/register/feewaiverform/)
 - University of Virginia (School of Engineering and Applied Science) [[Link]](https://engineering.virginia.edu/departments/biomedical-engineering/apply/application-fee-waivers) Note: GRE and standard application fee of $85 will be waived for 2024 admission to all GRADUATE PROGRAMS
+- The Kahlert School of Computing at the University of Utah is offering a number of merit-based application-fee waivers. [[Link]](https://www.cs.utah.edu/graduate/prospective-students/admissions/international-phd-application-fee-waivers). Note: For **International PhD applicants** only! :)
 
 ### Canada
 - University of British Columbia [[Link]](https://www.grad.ubc.ca/prospective-students/application-admission/online-application-fee)
